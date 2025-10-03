@@ -1,2 +1,2 @@
 # 6076491-sands-python
-In the first file I made the 5 waves and in the second file I wanted to put the operations, but couldn't directly without changing the other code, cause I took a different time vector and frequency for the different waves. So in the second file I assembled a couple common parameters so the operations could be done.  
+In the first file I made the 5 waves. I used multiple functions for the waves but for each wave the period is 2pi. In the second file I wanted to put the operations, but couldn't directly without changing the other code, cause I took a different time vector and frequency for the different waves. So in the second file I assembled a couple common parameters so the operations could be done.  
