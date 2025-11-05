@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Sands by Roos"
+version = "0.1.0"
+description = "The project contains firstly 3 type of signals : sinsoidal, triangular and the unit impulse. Secondly it contains the operations of multiplication and time scaling of a signal. Lastly there are tests which check the code"
+authors = [
+    {name = "Roos Grundeken", email = "roos.grundeken@gmail.com"}
+]
+dependencies = ["numpy", "scipy", "matplotlib"]
